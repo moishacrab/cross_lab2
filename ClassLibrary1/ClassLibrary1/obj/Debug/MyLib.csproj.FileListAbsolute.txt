@@ -1,0 +1,12 @@
+C:\Users\Толя\Desktop\Едік уроки\Крос-платформене програмування\Рябоволенко\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Толя\Desktop\Едік уроки\Крос-платформене програмування\Рябоволенко\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Толя\Desktop\Едік уроки\Крос-платформене програмування\Рябоволенко\ClassLibrary1\ClassLibrary1\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\Толя\Desktop\Едік уроки\Крос-платформене програмування\Рябоволенко\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Толя\Desktop\Едік уроки\Крос-платформене програмування\Рябоволенко\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Толя\Desktop\Едік уроки\Крос-платформене програмування\Рябоволенко\ClassLibrary1\ClassLibrary1\obj\Debug\MyLib.csprojAssemblyReference.cache
+D:\Study\С# Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Study\С# Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Study\С# Projects\ClassLibrary1\ClassLibrary1\obj\Debug\MyLib.csprojAssemblyReference.cache
+D:\Study\С# Projects\ClassLibrary1\ClassLibrary1\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\Study\С# Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Study\С# Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
